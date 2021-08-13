@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": "../../WebDevelopment/OnlineCv"
+		},
+		{
+			"path": "../../FullStack_Bootcamp_2021/Bs nav"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../FullStack_Bootcamp_2021/Museum_Of_Candy"
+		},
+		{
+			"path": "../../FullStack_Bootcamp_2021/PhotoBlog"
+		},
+		{
+			"path": "../../FullStack_Bootcamp_2021/Node_Express_MongoDB"
+		},
+		{
+			"path": "../../WebDevelopment/ThunderDog-Start-master"
+		},
+		{
+			"path": "../../WebDevelopment/Sokoun.art"
+		}
+	],
+	"settings": {}
+}
